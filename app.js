@@ -52,7 +52,8 @@ module.exports = app;
 
 
 const uri =
-  "mongodb+srv://alibanreal6:wSs0JDNqeQ8mAeCY@expressdb.hguvzrx.mongodb.net/?retryWrites=true&w=majority&appName=expressdb";
+ // "mongodb+srv://alibanreal6:Alphy1234@expressdb.hguvzrx.mongodb.net/?retryWrites=true&w=majority&appName=expressdb";
+  "mongodb+srv://alibanreal6:0fxdhDepNKt2Eceq@expressdb.hguvzrx.mongodb.net/?retryWrites=true&w=majority&appName=expressdb";
 
 async function connect() {
   try {
